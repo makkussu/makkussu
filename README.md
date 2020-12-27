@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+This is my account for contributions.
+
+🌱 I’m currently learning TypeScript and Java and going to learn C or Rust.
+
+#### Services I use:
+* [Sourcehut](https://sr.ht/~makkusu)
+
 <!--
 **makkussu/makkussu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
