@@ -3,6 +3,7 @@
 This is my account for contributions.
 
 🌱 I’m currently learning TypeScript and Java.
+
 🔭 I'm currently working on Top Secret project. Will be revealed Q1 this year. 
 
 <!--
