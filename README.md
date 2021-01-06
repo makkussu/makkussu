@@ -1,11 +1,9 @@
-### Hi there 👋
+### Welcome 👋
 
 This is my account for contributions.
 
-🌱 I’m currently learning TypeScript and Java and going to learn C or Rust.
-
-#### Services I use:
-* [Sourcehut](https://sr.ht/~makkusu)
+🌱 I’m currently learning TypeScript and Java.
+🔭 I'm currently working on Top Secret project. Will be revealed Q1 this year. 
 
 <!--
 **makkussu/makkussu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
