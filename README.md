@@ -2,7 +2,7 @@
 
 This is my account for contributions.
 
-🌱 I’m currently learning TypeScript and Java.
+🌱 I’m currently learning simplified Web Development. I prefer to use clean HTML/CSS/JavaScript code without any bloat in it :)
 
 🔭 I'm currently working on Top Secret project. Will be revealed Q1 this year. 
 
