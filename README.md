@@ -5,3 +5,5 @@
 This GitHub profile is used for public contributions only.
 If you want to obtain more information about my personal
 activity, check the links in the profile card.
+
+Introductionary information can be found here: [README](https://git.sr.ht/~makkusu/makkusu)
