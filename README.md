@@ -2,9 +2,9 @@
 
 # Cheers, I am Max
 
-This GitHub profile is used for public contributions only.
+**This GitHub profile is used for public contributions only.
 If you want to obtain more information about my personal
-activity, check the links in the profile card.
+activity, check the links in the profile card.**
 
 I am a Computer Science undergraduate currently studying in Europe.
 I have made small contributions to various projects over the years (such as ReverseEagle),
